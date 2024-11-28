@@ -1,0 +1,40 @@
+.enquiry-form {
+  max-width: 600px;
+  margin: 2rem auto;
+  background-color: #f8f9fa;
+  padding: 2rem;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.enquiry-form h1 {
+  text-align: center;
+  margin-bottom: 1.5rem;
+  color: #343a40;
+}
+
+.enquiry-form label {
+  font-weight: bold;
+}
+
+.enquiry-form .form-control {
+  margin-bottom: 1rem;
+}
+
+.enquiry-form .btn {
+  width: 100%;
+  padding: 0.75rem;
+}
+
+.enquiry-form .btn-primary {
+  margin-bottom: 1rem;
+}
+
+.enquiry-form .btn-reset {
+  background-color: #dc3545;
+  border: none;
+}
+
+.enquiry-form .btn-reset:hover {
+  background-color: #c82333;
+}
